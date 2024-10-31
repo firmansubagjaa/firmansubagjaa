@@ -31,5 +31,5 @@
 	<img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="TypeScript"/>
 	<img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" alt="C++"/>
 </div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=firmansubagjaa&hide=contribs,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firmansubagjaa&langs_count=8)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=firmansubagjaa&hide=contribs,prs) -->

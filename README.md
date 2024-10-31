@@ -21,10 +21,9 @@
 
 <div class="display: flex;">
 	<img src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" alt="ReactJS"/>
-	<img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" alt="ReactJS"/>
+	<img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" alt="NextJS"/>
 	<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript"/>
-	<img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="JavaScript"/>
-	<img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" alt="JavaScript"/>
-	<img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000?size=100&id=TpULddJc4gTh&format=png&color=000000" alt="JavaScript"/>
-	
+	<img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="TypeScript"/>
+	<img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" alt="C++"/>
+	<img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostgreSQL"/>
 </div>

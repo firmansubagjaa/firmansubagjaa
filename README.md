@@ -1,4 +1,4 @@
-## Hi Folks! I'm Firman.
+## Hi Folks!👋 I'm Firman.
 <p>
 	An undergraduate student majoring in Computer Science, I am an enthusiastic and adventurous Front end Developer of various projects. I am currently focusing on my studies to learn the basic fundamentals of computer science.
 </p>
@@ -24,12 +24,22 @@
 	<img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostgreSQL"/>
 </div>
 
-### Programming Language
+### Programming Language Use
 
-<div class="display: flex;">
+<!-- <div class="display: flex;">
 	<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript"/>
 	<img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="TypeScript"/>
 	<img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" alt="C++"/>
 </div>
+
+<div>
+	<p>For 2-3 years now I have been learning several programming languages. Here we can see what I often use hahaha 🙃.</p>
+</div>
+-->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firmansubagjaa&layout=compact)
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=firmansubagjaa&hide=contribs,prs) -->
+
+### Other Information
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=firmansubagjaa&show_icons=true)
+

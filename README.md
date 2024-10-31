@@ -4,7 +4,7 @@
 </p>
 
 <p>📩 How to reach: subagja.firman33@gmail.com</p>
-<p>🌏 My portfolio website: [Home | Firman Subagja](https://firman-portfolio-steel.vercel.app/)</p>
+<p>🌏 My portfolio website: https://firman-portfolio-steel.vercel.app</p>
 <p>🧠 Fact about me:</p>
 <ul>
 	<li>I graduated from diploma 3 in Telecommunication Technology.</li>
@@ -25,4 +25,6 @@
 	<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript"/>
 	<img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="JavaScript"/>
 	<img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" alt="JavaScript"/>
+	<img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000?size=100&id=TpULddJc4gTh&format=png&color=000000" alt="JavaScript"/>
+	
 </div>

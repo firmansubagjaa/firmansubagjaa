@@ -1,4 +1,4 @@
-## Hi Folks!👋 I'm Firman.
+# Hi Folks!👋 I'm Firman.
 <p>
 	An undergraduate student majoring in Computer Science, I am an enthusiastic and adventurous Front end Developer of various projects. I am currently focusing on my studies to learn the basic fundamentals of computer science.
 </p>

@@ -4,7 +4,7 @@
 </p>
 
 <p>📩 How to reach: subagja.firman33@gmail.com</p>
-<p>🌏 My portfolio website: https://firman-portfolio-steel.vercel.app</p>
+<p>🌏 See <a href="https://firman-portfolio-steel.vercel.app">my portfolio website</a></p>
 <p>🧠 Fact about me:</p>
 <ul>
 	<li>I graduated from diploma 3 in Telecommunication Technology.</li>

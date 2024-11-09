@@ -34,7 +34,7 @@
 	<h4>Or</h4>
 	<div class="display: flex;">
 		<img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="TypeScript"/>
-		<img src="https://icon.icepanel.io/Technology/svg/Bun.svg" alt="BunJS" width="10%"/>
+		<img src="https://icon.icepanel.io/Technology/svg/Bun.svg" alt="BunJS" max-width="10%"/>
 		<img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostgreSQL"/>
 	</div>
 </div>

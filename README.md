@@ -40,7 +40,10 @@
 	</div> -->
 </div>
 
-
+#### Study in Computer Science
+<div class="display: flex;">
+	<img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" alt="C++"/>
+</div>
 
 
 ### Programming Language Use Information

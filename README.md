@@ -7,7 +7,7 @@
 <p>🌏 See <a href="https://firman-portfolio-steel.vercel.app">my portfolio website</a></p>
 <p>🧠 Fact about me:</p>
 <ul>
-	<li>I graduated from diploma 3 in Telecommunication Technology.</li>
+	<li>I graduated from Diploma 3 in Telecommunication Technology.</li>
 	<li>Switched career from Telecommunication to Fullstack web developer for 1 year and 5 months.</li>
 	<li>The result of my long learner was appreciated by the founder when I interned at an IT consultant for 3 months and was trusted to hold 2 projects and one of the projects, I became a Tech Leader in the Front End Developer section.</li>
 	<li>I was trusted by the founder as a tech leader fullstack web developer as a seasonal for 6 months.</li>

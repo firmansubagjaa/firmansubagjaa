@@ -13,9 +13,9 @@
 	<li>I was trusted by the founder as a tech leader fullstack web developer as a seasonal for 6 months.</li>
 </ul>
 
-### Tech Stack
+## Tech Stack
 
-#### Front-End
+### Front-End
 <div class="display: flex;">
 	<img src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" alt="ReactJS"/>
 	<img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" alt="NextJS"/>
@@ -23,7 +23,7 @@
 	<img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="TypeScript"/>
 </div>
 
-#### Back-end
+### Back-end
 <div class="display: flex;">
 	<div class="display: flex;">
 		<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript"/>
@@ -40,7 +40,7 @@
 	</div> -->
 </div>
 
-#### Study in Computer Science
+### Study in Computer Science
 <div class="display: flex;">
 	<img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" alt="C++"/>
 	<img src="https://img.icons8.com/?size=100&id=9sb4Tguermmj&format=png&color=000000" alt="flowcharts"/>
@@ -48,7 +48,7 @@
 </div>
 
 
-### Programming Language Use Information
+## Programming Language Use Information
 
 <!-- <div class="display: flex;">
 	<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript"/>
@@ -63,7 +63,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firmansubagjaa&layout=compact)
 
-### Other Information
+## Other Information
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=firmansubagjaa&show_icons=true)
 

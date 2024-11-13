@@ -1,6 +1,6 @@
 # Hi Folks!👋 I'm Firman.
 <p>
-	An undergraduate student majoring in Computer Science, I am an enthusiastic and adventurous Front end Developer of various projects. I am currently focusing on my studies to learn the basic fundamentals of computer science.
+	An undergraduate student majoring in Computer Science, he's an enthusiastic and adventurous Front end Developer of various projects. I am currently focusing on my studies to learn the basic fundamentals of computer science.
 </p>
 
 <p>📩 How to reach: subagja.firman33@gmail.com</p>

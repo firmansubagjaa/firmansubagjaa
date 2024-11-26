@@ -1,3 +1,5 @@
+<img src="github-banner.png" alt="banner" style="border-radius: 25px;"/>
+
 # Hi Folks!👋 I'm Firman.
 <p>
 	An undergraduate student majoring in Computer Science, he's an enthusiastic and adventurous Front end Developer of various projects. He's currently focusing on my studies to learn the basic fundamentals of Computer Science.

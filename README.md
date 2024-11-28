@@ -48,6 +48,7 @@ He continued his Diploma to Bachelor extension study in Computer Science at Binu
 ### Study in Computer Science
 <div class="display: flex;">
 	<img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" alt="C++"/>
+	<img src="https://github.com/polyglotprog/c-logo/blob/main/public/assets/images/c-logo.png" style="width: 9%;height: auto;" alt="C"/>
 	<img src="https://img.icons8.com/?size=100&id=9sb4Tguermmj&format=png&color=000000" alt="flowcharts"/>
 
 </div>

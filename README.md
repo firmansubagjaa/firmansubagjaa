@@ -1,4 +1,4 @@
-<img src="github-banner-v2.png" alt="banner" style="border-radius: 25px;"/>
+<!-- <img src="github-banner-v2.png" alt="banner" style="border-radius: 25px;"/> -->
 
 # Hi Folks!👋 I'm Firman.
 <p>

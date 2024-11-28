@@ -46,14 +46,14 @@ He continued his Diploma to Bachelor extension study in Computer Science at Binu
 </div>
 
 ### Others
-<div class="display: flex;">
+<div style="display: flex; gap: 100px;">
 	<img src="https://github.com/user-attachments/assets/5a0f1dd4-a0df-4b8c-abd6-724d3aac3a32" style="width: 90px;height: auto" alt="VSCode"/>
 	<img src="https://github.com/user-attachments/assets/1f29d57b-2c58-4bcd-a1b7-c9cd5e52ee92" style="width: 90px;height: auto;" alt="Dbever"/>
 	<img src="https://github.com/user-attachments/assets/9c93aa74-53d1-4889-988d-5e43bd902cb0" style="width: 90px;height: auto;" alt="Postman"/>
 	<img src="https://github.com/user-attachments/assets/08b1f478-6f61-40ad-8eb5-c3c815b488fd" style="width: 90px;height: auto;" alt="GitHub"/>
 	<img src="https://github.com/user-attachments/assets/b831b0ee-3a3c-405a-b956-1e269a20fbe0" style="width: 90px;height: auto;" alt="GitLab"/>
+	<img src="https://github.com/user-attachments/assets/581607ba-4e42-48e3-8685-50f6745027a2" style="width: 90px;height: auto;" alt="Git"/>
 </div>
-
 
 ## Study in Computer Science
 <div class="display: flex;">

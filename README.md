@@ -22,21 +22,28 @@ He continued his Diploma to Bachelor extension study in Computer Science at Binu
 
 ### Front-End
 <div class="display: flex;">
-	<img src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" alt="ReactJS"/>
-	<img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" alt="NextJS"/>
-	<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript"/>
-	<img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="TypeScript"/>
+	<img src="https://github.com/user-attachments/assets/a2fb89ac-1716-4f89-9f94-4670e07cb098" style="width: 90px; height: auto" alt="ReactJS"/>
+	<img src="https://github.com/user-attachments/assets/e95b0329-6179-4a1c-8f90-e7c9937d4ab6" style="width: 90px; height: auto" alt="Vite"/>
+	<img src="https://github.com/user-attachments/assets/5cf5b543-2fc1-46bd-95a7-752c66a4657d" style="width: 90px; height: auto" alt="NextJS"/>
+	<img src="https://github.com/user-attachments/assets/deff98ae-d1ea-4c86-af7c-6ca5c8ad94bc" style="width: 90px; height: auto" alt="JavaScript"/>
+	<img src="https://github.com/user-attachments/assets/9c11cac2-4122-4535-b9b1-17dd21fb96a0" style="width: 92px; height: auto" alt="TypeScript"/>
+<!-- 	<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=00000" alt="JavaScript"/> -->
+<!-- 	<img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="TypeScript"/> -->
 </div>
+
 
 ### Back-end
 <div class="display: flex;">
 	<div class="display: flex;">
-		<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript"/>
-		<img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="TypeScript"/>
-		<img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="NodeJS"/>
-		<img src="https://icon.icepanel.io/Technology/svg/Bun.svg" alt="BunJS" style="width: 90px; height: auto"/>
-		<img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostgreSQL"/>
+		<img src="https://github.com/user-attachments/assets/deff98ae-d1ea-4c86-af7c-6ca5c8ad94bc" style="width: 90px; height: auto" alt="JavaScript"/>
+		<img src="https://github.com/user-attachments/assets/9c11cac2-4122-4535-b9b1-17dd21fb96a0" style="width: 92px; height: auto" alt="TypeScript"/>
+		<img src="https://github.com/user-attachments/assets/91b974e2-3f7e-4e15-bacc-16f1dbaee00a" style="width: 90px; height: auto" alt="NodeJS"/>
+		<img src="https://github.com/user-attachments/assets/1bb2fa89-4e3b-4755-b3f9-64d66a23c582" alt="BunJS" style="width: 90px; height: auto"/>
+		<img src="https://github.com/user-attachments/assets/94114ee4-d30f-49ab-82ef-2a20adbb34b7" style="width: 90px; height: auto" alt="PostgreSQL"/>
+<!-- 		<img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="NodeJS"/> -->
+<!-- 		<img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostgreSQL"/> -->
 	</div>
+
 <!-- 	<h4>Or</h4>
 	<div class="display: flex;">
 		<img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="TypeScript"/>

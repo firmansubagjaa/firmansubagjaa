@@ -5,8 +5,8 @@
 	An undergraduate student majoring in Computer Science, he's an enthusiastic and adventurous Front end Developer of various projects. He's currently focusing on my studies to learn the basic fundamentals of Computer Science.
 </p>
 
-<p>📩 How to reach: subagja.firman33@gmail.com</p>
-<p>🌏 See <a href="https://firman-portfolio-steel.vercel.app">he's portfolio website</a></p>
+<!-- <p>📩 How to reach: subagja.firman33@gmail.com</p>
+<p>🌏 See <a href="https://firman-portfolio-steel.vercel.app">he's portfolio website</a></p> -->
 <p>🧠 Fact about him:</p>
 <ul>
 	<li>He graduated from Diploma in Telecommunication Technology at Telkom University in 2021. Switched career from Telecommunication to Fullstack web developer for 1 year and 5 months.
